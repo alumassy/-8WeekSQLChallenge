@@ -75,3 +75,6 @@ The final `members` table captures the `join_date` when a `customer_id` joined t
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
   </details>
+
+## Solution
+You can view the [raw SQL script file](https://github.com/alumassy/Data-Analysis-Projects/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner.sql) or check out my article on [hashnode]() that has snippets of my query results.
